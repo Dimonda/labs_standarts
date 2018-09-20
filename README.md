@@ -14,11 +14,13 @@
 #### Создание диаграммы классов и диаграммы прецедентов "Разработка веб приложения" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 * Диаграмма классов
+
 ![none](https://github.com/romenkova/labs_standarts/blob/master/table.png)<br>
-[UML код]https://github.com/romenkova/labs_standarts/blob/master/table-uml.txt)<br>
+[UML код](https://github.com/romenkova/labs_standarts/blob/master/table-uml.txt)<br>
 
 
 * Диаграмма прецедентов
+
 ![none](https://github.com/romenkova/labs_standarts/blob/master/uml-img.png)<br>
 [UML код](https://github.com/romenkova/labs_standarts/blob/master/uml_code.txt)<br>
 
