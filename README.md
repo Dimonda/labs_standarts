@@ -7,9 +7,9 @@
 
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://vasilymaterikin.github.io/idef0-agile.png)
+![none](https://github.com/romenkova/labs_standarts/blob/master/model.png)
 
-* [IDEF0-диаграмма в формате .rsf](https://github.com/VasilyMaterikin/VasilyMaterikin.github.io/blob/master/idef0-agile.rsf)
+* [IDEF0-диаграмма в формате .rsf](https://github.com/romenkova/labs_standarts/blob/master/lab1.rsf)
 
 ## Лабораторная 2
 
