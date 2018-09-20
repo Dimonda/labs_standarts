@@ -1,0 +1,12 @@
+@startuml
+left to right direction
+actor C as "Пользователи"
+actor PO as "Программное обеспечение"
+actor D as "Разработчики"
+actor I as "Инструменты для разработки"
+usecase X as "Разрабатывать"
+D -- (X)
+(X) -- I
+C <|-- D
+I --|> PO
+@enduml
