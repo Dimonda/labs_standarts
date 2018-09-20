@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Разработчики" as P {
+Средства разработки
+Веб приложение Разрабатывать (Задачи, Каждый вечер)
+}
+hide circle
+@enduml
